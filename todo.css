@@ -140,6 +140,9 @@ p{
     .input_div .input, .todoDate, .todoowner{
         width: 300px;
     }
+    body{
+        overflow-x: hidden;
+    }
     .input_div{
         display: flex;
         flex-direction: column;
