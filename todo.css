@@ -141,7 +141,7 @@ p{
         width: 300px;
     }
     body{
-        overflow-x: hidden;
+        overflow: hidden;
     }
     .input_div{
         display: flex;
