@@ -138,7 +138,7 @@ p{
 }
 @media (max-width:400px){
     .input_div .input, .todoDate, .todoowner{
-        width: 300px;
+        width: 200px;
     }
     body{
         overflow: hidden;
